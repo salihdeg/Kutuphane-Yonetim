@@ -1,4 +1,6 @@
 # Kutuphane-Yonetim
+When I create this project I was too inexperienced. Please consider this.
+
 My first Java Swing project for school. Date 12-2019
 
 I used MySql for database on this project.
